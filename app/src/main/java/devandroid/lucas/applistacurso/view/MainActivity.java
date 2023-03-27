@@ -1,8 +1,11 @@
-package devandroid.lucas.applistacurso;
+package devandroid.lucas.applistacurso.view;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import devandroid.lucas.applistacurso.R;
+
 public class MainActivity extends AppCompatActivity {
 
     @Override
